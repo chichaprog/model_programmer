@@ -78,8 +78,9 @@ while True:
 
 
 
-
+#This pragramm for password 
 #password
+
 import hashlib
 salt = 'Ваша соль'.encode()
 file = open("my_hash","r")
@@ -308,6 +309,7 @@ if __name__ == "__main__":
 
 
 
+#This programm new for password
 
 import itertools
 import string
