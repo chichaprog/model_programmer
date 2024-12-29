@@ -1,3 +1,5 @@
+#This progrmm for password too.
+
 import itertools
 import string
 import time

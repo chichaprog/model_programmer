@@ -1,3 +1,5 @@
+#This progrmm help programm for passeord.
+
 import hashlib
 import os
 import base64

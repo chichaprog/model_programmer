@@ -1,3 +1,5 @@
+#This programm is old and it for password.
+
 #password
 import hashlib
 import base64

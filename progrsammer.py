@@ -1,3 +1,5 @@
+#This file model for different programm excersice.
+
 array = [1,8,4,2,15,11,12,9,0]
 
 my_min = min(array)
