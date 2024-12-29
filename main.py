@@ -16,7 +16,7 @@ def brute_force_password(target_password,n,characters):
                 print(f"Пароль найден: {guess_password}")
                 return
 
-    print("Пароль не найден.")
+    print("Пароль не найден. ")
 
 
 if __name__ == "__main__":
