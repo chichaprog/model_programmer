@@ -39,9 +39,3 @@
 
 # a = " ".join(["Hello,","my","name","is","Sasha"])
 # print(a)
-
-
-def fun_7(a,b = 0):
-    
-
-    print(fun_7(a,b))

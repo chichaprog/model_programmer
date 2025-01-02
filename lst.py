@@ -70,3 +70,17 @@ x = "Hello"
 print(x[0])
 print(x[-1])
 print(x)
+
+
+a = len("Goodbye")
+print(a)
+
+
+
+a = 8 * "x"
+print(a)
+
+
+
+a = " ".join(["Hello,","my","name","is","Sasha"])
+print(a)
