@@ -39,3 +39,26 @@
 
 # a = " ".join(["Hello,","my","name","is","Sasha"])
 # print(a)
+
+
+
+
+
+arr_x = [1,2,3,"hello",2,3,4,"ajf"]
+
+def remove(arr_x):
+    for i in arr_x:
+        if arr_x[0] == int:
+            arr_x[0]
+            return list(map(lambda i: arr_x,arr_x = i))
+        else: 
+            arr_x[0] != int
+            print(None)
+
+print(remove(arr_x))
+
+
+
+
+
+
